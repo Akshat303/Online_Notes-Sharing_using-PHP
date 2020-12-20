@@ -59,13 +59,4 @@ password: userpass
 - Add login with facebook and google+ option
 - Add search notes option
 
-### Issues
 
-Please log any issues found in the repository 
-
-### References 
-www.freshdesignweb.com
-Fashion Responsive Slider
-
-### License
-College Notes Gallery is released under the MIT License
