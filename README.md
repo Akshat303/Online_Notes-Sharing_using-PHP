@@ -14,8 +14,6 @@ College-Notes-Gallery Admin Panel ->
 ![admin](https://user-images.githubusercontent.com/16975766/28489144-e2c938ae-6ed8-11e7-90f2-f104f34eeabb.png)
 
 
-### Full Demo
-[College Notes Gallery](https://www.youtube.com/watch?v=oJ7rNVoCPG0&t)
 
 ### Requirements 
 
